@@ -3,8 +3,8 @@
   "configurations": {
     "test-swa-functions": {
       "appLocation": ".",
-      "apiLocation": "api",
-      "outputLocation": ".",
+      "apiLocation": ".",
+      "outputLocation": "html",
       "apiLanguage": "node",
       "apiVersion": "18",
       "apiBuildCommand": "npm run build --if-present",
