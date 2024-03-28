@@ -8,9 +8,7 @@
       "apiLanguage": "node",
       "apiVersion": "18",
       "apiBuildCommand": "npm run build --if-present",
-      "env": "production",
-      "appName": "test-swa-functions",
-      "resourceGroup": "test-swa-functions-rg"
+      "env": "production"
     }
   }
 }
